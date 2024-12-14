@@ -1,0 +1,12 @@
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/librevm_precompile-88e58c253e505d53.rmeta: /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/lib.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/blake2.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/bn128.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/hash.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/identity.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/kzg_point_evaluation.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/modexp.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/secp256k1.rs
+
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/revm_precompile-88e58c253e505d53.d: /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/lib.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/blake2.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/bn128.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/hash.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/identity.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/kzg_point_evaluation.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/modexp.rs /home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/secp256k1.rs
+
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/lib.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/blake2.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/bn128.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/hash.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/identity.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/kzg_point_evaluation.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/modexp.rs:
+/home/user/.cargo/git/checkouts/revm-bf744d8ffabcbad9/80c909d/crates/precompile/src/secp256k1.rs:

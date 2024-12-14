@@ -1,0 +1,10 @@
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/libspki-e8b644cbdd1ba179.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md
+
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/spki-e8b644cbdd1ba179.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/algorithm.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/error.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/spki.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/traits.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.2/src/../README.md:

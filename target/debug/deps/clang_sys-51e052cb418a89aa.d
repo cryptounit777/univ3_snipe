@@ -1,0 +1,14 @@
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/libclang_sys-51e052cb418a89aa.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/macros.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/common.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/dynamic.rs
+
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/libclang_sys-51e052cb418a89aa.rlib: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/macros.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/common.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/dynamic.rs
+
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/deps/clang_sys-51e052cb418a89aa.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/macros.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/common.rs /home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/dynamic.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs:
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/macros.rs:
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/common.rs:
+/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/user/literature/sniper_bot/rs-uniswap-sniper/target/debug/build/clang-sys-1f3d0d5566da4592/out
